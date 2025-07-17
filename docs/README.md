@@ -1,0 +1,1 @@
+Developed and compared two CNN architectures on MNIST dataset — one baseline and one improved using dropout and batch normalization. Achieved 99% accuracy. UI built with Streamlit and deployed for interactive prediction.
